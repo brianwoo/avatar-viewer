@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avatar-viewer/static/css/main.e6c13ad2.css",
+    "main.js": "/avatar-viewer/static/js/main.9d7ca4ea.js",
+    "static/js/787.56b369a6.chunk.js": "/avatar-viewer/static/js/787.56b369a6.chunk.js",
+    "index.html": "/avatar-viewer/index.html",
+    "main.e6c13ad2.css.map": "/avatar-viewer/static/css/main.e6c13ad2.css.map",
+    "main.9d7ca4ea.js.map": "/avatar-viewer/static/js/main.9d7ca4ea.js.map",
+    "787.56b369a6.chunk.js.map": "/avatar-viewer/static/js/787.56b369a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9d7ca4ea.js"
+  ]
+}
